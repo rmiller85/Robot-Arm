@@ -15,7 +15,6 @@ Update: the robot arm was deemed unnecessary and pointless. With Mr. H's approva
 Screws won't line up properly, arm will be unecessary, screws will fall into the wrong bins
 
 # Execution
-
 Work on the Screw Sorter began on October 28. It was completed on [day]
 
 ## First Prototype
@@ -26,7 +25,14 @@ To complete our prototype, we devised a genius plan: stick some cardboard and ho
 [picture]
 
 ## _Long_ rails
-
 After our fantastic prototype was completed, we created new rails which were much longer. This was so that the sorter could sit on top of the screw bins. Unfortunately, we needed supports for the rail so that it didn't bend. After _way_ too many slight mistakes and subsequent modifications, we finally got to a design that was stable and functional.
 
 [picture of rail graveyard]
+
+## Staging area/hopper
+
+Now that we had a working system to sort screws, we had to solve a pretty major problem: screws had to be carefully placed in the system one ata time, removing any sembleance of efficiency. To solve this problem, we looked at various real-life solutions to similar problems. In the end, we built a similar design to a grain hopper. Unfortunately, the screws were extremely finnicky about lining up the way we wanted. As a result, we went through many prototypes.
+
+[picture]
+
+After extensive testing on how to a) best transition the screws from hopper to rails, and b) best line the screws up on the hopper's rails, we finally created a design which we were happy with.
