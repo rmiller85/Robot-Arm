@@ -40,3 +40,5 @@ After extensive testing on how to a) best transition the screws from hopper to r
 
 ## Motor
 Gravity couldn't do *all* the work in straightening/sliding our screws. We devised a plan to attach a continuous servo which would slap an arm against the hopper over and over. However, Mr. H provided a far better and simpler solution: an eccentric motor. It violently shook whenever turned on. It was perfect.
+
+Next, we had to build a C-clamp to hold the motor in place. This was fairly easy; I reused a C-clamp model that I threw together last year. With a few dimension changes, the new clamp was complete. Attaching it to the hopper was simple. We just drilled screw holes in the back. You can see this in the above picture.
