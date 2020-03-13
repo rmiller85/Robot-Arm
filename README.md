@@ -30,9 +30,13 @@ After our fantastic prototype was completed, we created new rails which were muc
 [picture of rail graveyard]
 
 ## Staging area/hopper
-
 Now that we had a working system to sort screws, we had to solve a pretty major problem: screws had to be carefully placed in the system one ata time, removing any sembleance of efficiency. To solve this problem, we looked at various real-life solutions to similar problems. In the end, we built a similar design to a grain hopper. Unfortunately, the screws were extremely finnicky about lining up the way we wanted. As a result, we went through many prototypes.
 
 [picture]
 
-After extensive testing on how to a) best transition the screws from hopper to rails, and b) best line the screws up on the hopper's rails, we finally created a design which we were happy with.
+After extensive testing on how to a) best transition the screws from hopper to rails, and b) best line the screws up on the hopper's rails, we finally created a design which we were happy with. It had one rail. The other rail would simply be the rail which the hopper would sit on. This way, screws would be stable and straight after falling into the hopper and have a minimal jump between leaving the hoppper and riding the rails. Once attached to the rails, the hopper looked like this:
+
+[top view of hopper]
+
+## Motor
+Gravity couldn't do *all* the work in straightening/sliding our screws. We devised a plan to attach a continuous servo which would slap an arm against the hopper over and over. However, Mr. H provided a far better and simpler solution: an eccentric motor. It violently shook whenever turned on. It was perfect.
